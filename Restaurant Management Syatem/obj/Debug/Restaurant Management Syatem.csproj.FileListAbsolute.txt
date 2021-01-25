@@ -1,0 +1,21 @@
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\bin\Debug\Restaurant Management Syatem.exe.config
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\bin\Debug\Restaurant Management Syatem.exe
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\bin\Debug\Restaurant Management Syatem.pdb
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant Management Syatem.csprojResolveAssemblyReference.cache
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Login_Frame.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Properties.Resources.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant Management Syatem.csproj.GenerateResource.Cache
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant Management Syatem.exe
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant Management Syatem.pdb
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\bin\Debug\Guna.UI.dll
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Manager_Panel.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Staff_Information.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Contract_Us.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Food_Management.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Customer_Panel.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Restaurant_Expense.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Order_List.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Report.Print_Invoice.resources
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\RdlCompile.cache
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\RdlCompile.compiled
+F:\C# Code\Restaurant Management Syatem\Restaurant Management Syatem\obj\Debug\Restaurant_Management_Syatem.Email.resources
